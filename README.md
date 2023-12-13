@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michał Łazarz</h1>
 <h3 align="center">I'm 21 yo Automation and Robotics student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miq312&label=Profile%20views&color=0e75b6&style=flat" alt="miq312" /> </p>
 
 - 👨‍🎓I'm currently studying at **AGH in Cracow**
 
