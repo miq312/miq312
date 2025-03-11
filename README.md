@@ -4,7 +4,7 @@
 
 - 👨‍🎓I'm currently studying at **AGH in Cracow**
 
-- 👉 I’m interested in **Game development and Embedded systems**
+- 👉 I’m interested in **Embedded systems and IoT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
