@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michał Łazarz</h1>
-<h3 align="center">I'm 21 yo Automation and Robotics student</h3>
+<h3 align="center">I'm 22 yo Automation and Robotics student</h3>
 
 
 - 👨‍🎓I'm currently studying at **AGH in Cracow**
